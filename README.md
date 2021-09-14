@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ted
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Web development on The Odin Project.
+- 🌱 I’m currently learning Web development in The Odin Project.
 - 💞️ I’m looking to collaborate on some interesting projects.
 - 📫 How to reach me: 
 -       email : ted23@tutanota.com
