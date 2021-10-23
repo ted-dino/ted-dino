@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ted-dino&label=Profile%20views&color=0e75b6&style=flat" alt="ted-dino" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available are [here](https://github.com/ted-dino?tab=repositories)
 
