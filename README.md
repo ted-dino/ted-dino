@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available are [here](https://github.com/ted-dino?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/ted-dino?tab=repositories)
 
 - 📫 How to reach me **ted23@tutanota.com**
 
