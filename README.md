@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ted Dino</h1>
 <h3 align="center">A passionate software developer from the Philippines.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ted-dino&label=Profile%20views&color=0e75b6&style=flat" alt="ted-dino" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ted-dino?tab=repositories)
