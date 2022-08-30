@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ted-dino" alt="ted-dino" /></a> </p>
 
-- 🌱 I’m currently learning Next.js and Typescript and I am also interested in Cybersecurity
+- 🌱 I’m currently learning Next.js and Typescript and I am also interested in Cybersecurity.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ted-dino?tab=repositories)
 
