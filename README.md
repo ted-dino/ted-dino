@@ -3,13 +3,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ted-dino" alt="ted-dino" /></a> </p>
 
-- 🌱 I’m currently learning Next.js and Typescript and I am also interested in Cybersecurity.
+- 🌱 I’m currently learning Next.js and Typescript and also interested in Cybersecurity.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/ted-dino?tab=repositories)
 
 - 📫 How to reach me? <a href="mailto:ted23@tutanota.com">click me</a>
 
-- ⚡ Fun fact **I am a man of culture**
+- ⚡ Fun fact **I can center a div**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
