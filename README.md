@@ -11,6 +11,4 @@
 
 - ⚡ Fun fact **I can center a div**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ted-dino&show_icons=true&locale=en&layout=compact" alt="ted-dino" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ted-dino&show_icons=true&locale=en" alt="ted-dino" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ted-dino&" alt="ted-dino" /></p>
